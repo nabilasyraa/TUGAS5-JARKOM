@@ -148,8 +148,8 @@ Close Configuration Window for S1
 ```
 ![Image](https://github.com/user-attachments/assets/0f601a65-ca14-41dc-8eea-d23dc3027e3b)
 
-## Bagian 5: Mengkonfigurasi S2
-- Setelah menyelesaikan konfigurasi pada S1, lanjutkan mengkonfigurasi S2. Jika sudah Klik Check Result.
+## Bagian 5: Mengkonfigurasi S2 dan Check Result
+- Setelah menyelesaikan konfigurasi pada S1, lanjutkan mengkonfigurasi S2 sesuai dengan langkah-langkah yang sudah dilakukan pada S1. Jika sudah Klik Check Result.
 ![Image](https://github.com/user-attachments/assets/606f30ff-13b0-4c6b-9533-5e3b899a18d6)
 - Lalu cek pada bagian Assessment Items, jika sudah benar akan ditandai dengan checklist warna hijau.
 ![Image](https://github.com/user-attachments/assets/c29e2782-fdaf-4df5-bfdc-4514e78d2092)
