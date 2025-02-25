@@ -14,3 +14,4 @@ Anda dapat mengakses semua perintah sakelar dari mode EXEC khusus. Namun, karena
   Switch#
   ```
 - Perhatikan bahwa prompt berubah untuk mencerminkan mode EXEC khusus.
+![Image](https://github.com/user-attachments/assets/3e40d812-2577-4190-8794-edc43a5ebb4e)
